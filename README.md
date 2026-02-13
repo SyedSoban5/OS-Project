@@ -65,7 +65,6 @@ SmartSystemProtector.vcxproj → project configuration
 3. Run the program  
 
 ---
----
 
 ## 🎯 Learning Objectives
 Through this project, the following concepts were learned:
