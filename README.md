@@ -23,7 +23,6 @@ The main objective of this project is to understand how an operating system cont
 - C++
 - Object-Oriented Programming (OOP)
 - Console-based application
-- File handling (if implemented)
 - Visual Studio / g++
 
 ---
